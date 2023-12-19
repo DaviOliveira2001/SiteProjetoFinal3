@@ -1,0 +1,21 @@
+/* COMEÇO CSS LOGIN PAGE. */
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:'Courier New', Courier, monospace;
+}
+body 
+{
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  background: #000;
+}
+.login{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  align-content: center;
+}
